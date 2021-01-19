@@ -1,7 +1,5 @@
 # Infinite mirror
-LED infinite mirror on Arduino
-
-Inspired by [AlexGyver](https://github.com/AlexGyver/GyverLight) and [techydiy](https://youtu.be/sAPGw0SD1DE).
+LED infinite mirror on Arduino. Inspired by [AlexGyver](https://github.com/AlexGyver/GyverLight) and [techydiy](https://youtu.be/sAPGw0SD1DE).
 
 ## Images
 <img src="https://user-images.githubusercontent.com/41387522/105000051-b63f1300-59e2-11eb-997b-582b1b62a95c.jpeg" width="20%">&nbsp;<img src="https://user-images.githubusercontent.com/41387522/105000062-bb03c700-59e2-11eb-8e9d-2dba6beb6b1d.jpeg" width="20%">&nbsp;<img src="https://user-images.githubusercontent.com/41387522/105000091-c48d2f00-59e2-11eb-8ff7-a817fc2a3bb3.jpeg" width="20%">
